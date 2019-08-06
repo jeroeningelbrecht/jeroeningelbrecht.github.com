@@ -2,10 +2,10 @@
 
 ## Introspection and Reflection
 
-### __dict__
+### \_\_dict\_\_
 #### scope
-* class
-* object
+* _class_
+* _object_
 
 #### what
 * class: what are the methods of your class and what are the values of the class variables
@@ -27,4 +27,29 @@ Example.__dict__ # {'__module__': '__main__', 'counter': 0, '__init__': <functio
 
 e.__dict__ # {'_Example__val': 1}
     
+```
+
+### \_\_name\_\_
+#### scope
+* _class_
+
+### what
+Identify the module in the import system
+
+#### examples
+```python
+# package foo.bar
+# module name: module.py
+def print_name():
+    print(__name__)
+    
+print_name()
+# prints: '__main__'
+```
+
+```python
+from foo.bar.module import print_name
+
+print_name()
+# prints: module
 ```
