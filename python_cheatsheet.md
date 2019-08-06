@@ -23,7 +23,8 @@ class Example:
 
 e = Example()
 
-print(Example.__dict__)
-print(e.__dict__)
+Example.__dict__ # {'__module__': '__main__', 'counter': 0, '__init__': <function Example.__init__ at 0x7fb01b097ea0>, '__dict__': <attribute '__dict__' of 'Example' objects>, '__weakref__': <attribute '__weakref__' of 'Example' objects>, '__doc__': None}
+
+e.__dict__ # {'_Example__val': 1}
     
 ```
