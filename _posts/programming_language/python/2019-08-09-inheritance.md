@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inheritance
-tags: python, inheritance
+tags: [python, inheritance]
 ---
 
 oops  

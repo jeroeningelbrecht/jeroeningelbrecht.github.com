@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Cheat sheet
-tags: python, string, introspection, reflection, inheritance
+tags: [python, string, introspection, reflection, inheritance]
 ---
 
 # Python cheat sheet
