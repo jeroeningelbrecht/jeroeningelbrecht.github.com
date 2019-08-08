@@ -33,7 +33,7 @@ e.__dict__ # {'_Example__val': 1}
 #### scope
 * _class_
 
-### what
+#### what
 Identify the module in the import system
 
 #### examples
@@ -50,6 +50,23 @@ print_name()
 ```python
 from foo.bar.module import print_name
 
-print_name()
-# prints: module
+print_name() # function defined in the imported module.py
+# prints: 'module' <> '__main__' when executed in the module.py file itself ^^
+```
+
+### type(obj)
+#### scope
+* _object_
+
+#### what
+returns the _class_ of the object
+
+#### example
+```python
+class Example:
+    pass
+    
+
+e = Example()
+type(e)  # prints "<class '__main__.Example'>"
 ```
