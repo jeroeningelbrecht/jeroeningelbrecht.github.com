@@ -12,7 +12,7 @@
 * object: what are the values of your object's properties
 
 #### examples
-[examples/dictEx.py](./examples/dictEx.py)
+[examples/dictEx.py](../examples/dictEx.py)
 ```python
 class Example:
     counter = 0
