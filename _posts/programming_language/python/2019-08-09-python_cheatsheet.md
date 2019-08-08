@@ -1,5 +1,6 @@
 ---
 layout: post
+author: @jeroeningelbrecht
 title: Python Cheat sheet
 tags: [python, string, introspection, reflection, inheritance]
 ---
