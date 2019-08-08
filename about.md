@@ -1,6 +1,7 @@
 ---
 layout: default
-title: about
+title: jeroen@github:~$ whoami
 ---
-# Python
-Tadaa
+* a dad
+* an IT minded guy
+* creator of [http://www.askw8ball.com/](askw8ball.com)
