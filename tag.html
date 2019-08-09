@@ -11,9 +11,9 @@ title: tag
     {% for tag in site.tags %}
 
         {% for post in tag[1]%}
-            let id = {{post.id}}.split('/').join('')
-            tagPosts.{{tag[0]}}[id].title = {{post.title}};
-            tagPosts.{{tag[0]}}[id].url = {{post.url}};
+            let id = "{{post.id}}".split('/').join('')
+            tagPosts.{{tag[0]}}[id].title = "{{post.title}}";
+            tagPosts.{{tag[0]}}[id].url = "{{post.url}}";
         {% endfor %}
 
     {% endfor %}
