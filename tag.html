@@ -9,7 +9,7 @@ title: tag
     let tagPosts = [];
 
     {% for tag in site.tags %}
-        tagPosts[tag[0]] = tag[1]
+        tagPosts[{{tag[0]}}] = {{tag[1]}}
     {% endfor %}
 
     let params = new URLSearchParams(document.location.search.substring(1));
