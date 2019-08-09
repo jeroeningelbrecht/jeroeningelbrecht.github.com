@@ -40,6 +40,8 @@ title: tag
     //create entries for all posts related to this tag
     for (post in tagPosts[tag]) {
 
+        let postObj = tagPosts[tag][post];
+
         /*
             structure:
             <li>
@@ -52,10 +54,15 @@ title: tag
         let aEl = document.createElement('a');
         let pEl = document.createElement('p');
 
-        aEl.setAttribute('href', post.url);
-        aEl.appendChild(post.title);
+        aEl.setAttribute('href', postObj.url);
+        aEl.appendChild(postObj.title);
             //TODO: post date + datefilter
             //TODO: post excerpt
+
+        h2El.appendChild(aEl);
+        liEl.appendChild(h2El);
+
+        postListEl.appendChild(liEl);
 
     }
 
