@@ -4,6 +4,6 @@ author: jeroen
 title: Inheritance
 tags: [python, inheritance]
 ---
-
-oops  
-:octocat: 
+# Inheritance
+3 rules of thumb:
+* 
