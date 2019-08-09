@@ -10,10 +10,10 @@ title: tag
 
     {% for tag in site.tags %}
 
-        {% for post in tag[1]%}
-            id = "{{post.id}}".split('/').join('');
-            tagPosts.{{tag[0]}}[id].title = "{{post.title}}";
-            tagPosts.{{tag[0]}}[id].url = "{{post.url}}";
+        {% for post in tag[1] %}
+
+            tagPosts.{{tag[0]}}["{{post.id}}".split('/').join('')].title = "{{post.title}}";
+            tagPosts.{{tag[0]}}["{{post.id}}".split('/').join('')].url = "{{post.url}}";
         {% endfor %}
 
     {% endfor %}
