@@ -9,12 +9,16 @@ title: tag
     let tagPosts = [];
 
     {% for tag in site.tags %}
-        tagPosts[{{tag[0]}}] = {{tag[1]}}
+
+        {% for post in tag[1]%}
+            tagPosts.{{tag[0]}}.{{post.id}}.title = {{post.title}};
+            tagPosts.{{tag[0]}}.{{post.id}}.url = {{post.url}};
+        {% endfor %}
+
     {% endfor %}
 
     let params = new URLSearchParams(document.location.search.substring(1));
     let tag = params.get("tag");
 
-    alert(tagPosts.tag)
 
 </script>
