@@ -9,9 +9,11 @@ title: tag
     let tagPosts = [];
 
     {% for tag in site.tags %}
+        //declare and init an empty array per post
+        tagPosts.{{tag[0]}} = []
 
         {% for post in tag[1] %}
-
+            //set the title and url per post id
             tagPosts.{{tag[0]}}["{{post.id}}".split('/').join('')].title = "{{post.title}}";
             tagPosts.{{tag[0]}}["{{post.id}}".split('/').join('')].url = "{{post.url}}";
         {% endfor %}
