@@ -5,22 +5,10 @@ title: tag
 
 <h1 id="h1Title">Posts for tag </h1>
 
-<!--
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }} - [{{post.date | date_to_string }}]</a></h2>
-      <p>{{ post.excerpt }}</p>
-      <p>
-        {% for tag in post.tags %}
-          [<a href="tag.html?tag={{ tag }}">{{ tag }}</a>]
-        {% endfor %}
+<ul id="postList">
 
-      </p>
-    </li>
-  {% endfor %}
 </ul>
--->
+
 
 <script>
     let tagPosts = [];
@@ -43,9 +31,29 @@ title: tag
     let params = new URLSearchParams(document.location.search.substring(1));
     let tag = params.get("tag");
 
+
     //append the tag to the h1 title of the page
     document.getElementById('h1Title').textContent += tag;
 
+    let postListEl = document.getElementById('postList');
 
+    //create entries for all posts related to this tag
+    for (post in tagPosts[tag]) {
+
+        /*
+            structure:
+            <li>
+                <h2><a href="{{ post.url }}">{{ post.title }} - [{{post.date | date_to_string }}]</a></h2>
+                <p>{{ post.excerpt }}</p>
+            </li>
+        */
+        let liEl = document.createElement('li');
+        let h2El = document.createElement('h2');
+        let aEl = document.createElement('a');
+        let pEl = document.createElement('p');
+
+        a.setAttribute('href', post.title);
+
+    }
 
 </script>
