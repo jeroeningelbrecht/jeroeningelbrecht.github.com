@@ -1,6 +1,6 @@
 ---
 layout: post
-author: @jeroeningelbrecht
+author: jeroen
 title: Inheritance
 tags: [python, inheritance]
 ---
