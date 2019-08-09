@@ -55,7 +55,7 @@ title: tag
         let pEl = document.createElement('p');
 
         aEl.setAttribute('href', postObj.url);
-        aEl.appendChild(postObj.title);
+        aEl.appendChild(new TextNode(postObj.title));
             //TODO: post date + datefilter
             //TODO: post excerpt
 
