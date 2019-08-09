@@ -52,7 +52,10 @@ title: tag
         let aEl = document.createElement('a');
         let pEl = document.createElement('p');
 
-        a.setAttribute('href', post.title);
+        aEl.setAttribute('href', post.url);
+        aEl.appendChild(post.title);
+            //TODO: post date + datefilter
+            //TODO: post excerpt
 
     }
 
