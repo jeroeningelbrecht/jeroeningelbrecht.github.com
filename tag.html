@@ -5,5 +5,7 @@ title: tag
 
 
 <script>
-    alert(window.location)
+    let params = new URLSearchParams(document.location.search.substring(1));
+    let tag = params.get("tag");
+    alert('tag: ' + tag)
 </script>
