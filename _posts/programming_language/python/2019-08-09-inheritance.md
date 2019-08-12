@@ -33,3 +33,28 @@ class SubClass(SuperClass1, SuperClass2):
 sub = SubClass()
 sub.interact() # prints 'SuperClass1 is speaking'
 ```
+
+## Polymorphism
+```python
+class One:
+    def do_it(self):
+        print('do_it from One')
+
+    def do_anything(self):
+        self.do_it()
+
+
+class Two(One):
+    def do_it(self):
+        print('do_it from Two')
+
+
+one = One()
+two = Two()
+one.do_anything()   # 'do_it from One'
+two.do_anything()   # 'do_it from Two'
+
+```
+> the situation in which the subclass is able to modify its superclass behavior 
+(just like in the example) is called polymorphism.  
+The word comes from Greek (polys: "many, much" and morphe, "form, shape"), which means that one and the same class can take various forms depending on the redefinitions done by any of its subclasses
