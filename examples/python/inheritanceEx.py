@@ -18,6 +18,10 @@ class SubClass(SuperClass1, SuperClass2):
 
 sub = SubClass()
 sub.interact() # prints 'SuperClass1 is speaking'
+print(sub.__class__.__bases__)
+
+superC = SuperClass1()
+print(superC.__class__.__subclasses__())
 
 
 class One:

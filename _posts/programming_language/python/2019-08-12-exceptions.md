@@ -56,8 +56,13 @@ else is only executed in case no exception was caught
 finally is always executed
 ```
 
-### The 'as' keyword or Exceptions are also classes
-Once you get grip of the Exception class, you can do with it whatever you'd do with any other class cfr [python cheat sheet](2019-08-09-python_cheatsheet.md)
+### Exceptions are also classes
+You can actually do something with the exception that's being *raised* (not *thrown* for any Java people).  
+Once you get grip of the Exception class, you can do with it whatever you'd do with any other class cfr [python cheat sheet](./2019-08-09-python_cheatsheet.md)
+
+  
+The magic keyword here is: **'as'**.  
+**try** something and **except** the raised error class **as** a noun which can be used in the subsequent code 
 ```python
 def as_error(text):
     try:
@@ -74,3 +79,6 @@ output
 an error occurred
 invalid literal for int() with base 10: 'hello'
 ```
+
+#### The BaseException class
+The BaseException is a special case of Exception class as this is the parentclass for all other Exception classes
