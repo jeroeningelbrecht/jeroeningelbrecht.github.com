@@ -18,3 +18,18 @@ print('------------------')
 divide(-1)
 print('------------------')
 divide(2)
+
+# -------------------------------------------------------------------- #
+
+
+def as_error(text):
+    try:
+        int(text)
+    except ValueError as error:
+        print('an error occurred')
+        print(error)
+
+
+as_error('hello')
+
+# -------------------------------------------------------------------- #
