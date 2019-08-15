@@ -58,7 +58,7 @@ finally is always executed
 
 ### Exceptions are also classes
 You can actually do something with the exception that's being *raised* (not *thrown* for any Java people).  
-Once you get grip of the Exception class, you can do with it whatever you'd do with any other class cfr [python cheat sheet](./2019/08/09/python_cheatsheet.html)
+Once you get grip of the Exception class, you can do with it whatever you'd do with any other class cfr [python cheat sheet]({{ site.baseurl }}{% post_url 2019-08-09-python_cheatsheet %})
 
   
 The magic keyword here is: **'as'**.  
