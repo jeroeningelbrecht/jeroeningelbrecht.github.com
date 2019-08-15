@@ -8,8 +8,18 @@ tags: [python, exceptions]
 ## keywords
 * try
 * except
+* as
 * else
 * finally
+
+**try:**  
+&nbsp;&nbsp;&nbsp;&nbsp;*codeblock*  
+{  
+\[**except** \[ *exception-class*  \[ as ***noun*** \] ] **:**  
+&nbsp;&nbsp;&nbsp;&nbsp;*codeblock*  
+|  
+**except** \[ **(** ***exception-class-1*** **,** ***exception-class-2*** \[, ... , *exception-class-n*\] **)** \[ as ***noun*** \] \]  
+}
 
 ## example
 ```python

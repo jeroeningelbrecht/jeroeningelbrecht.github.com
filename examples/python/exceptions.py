@@ -2,7 +2,8 @@ def divide(n):
     try:
         1/n
         chr(n)
-    except (ArithmeticError, ZeroDivisionError):
+    except (ArithmeticError, ZeroDivisionError) as e:
+        print(e)
         print('oops, not a correct mathematical operation')
     except ValueError:
         print('wrong value José: ', n)
