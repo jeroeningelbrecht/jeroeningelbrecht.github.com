@@ -6,7 +6,7 @@ tags: [swedish, swedish_characters_ubuntu]
 ---
 # How to type Swedish characters using Ubuntu
 
-source: [wikipedia]{https://en.wikipedia.org/wiki/List_of_Unicode_characters}
+source: [wikipedia](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 | character | keyboard combination |
 | --------- | -------------------- |
