@@ -10,12 +10,8 @@ layout: default
 {{content}}
 
 {% if page.tags %}
-
-<!--  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>  -->
-
   <small>tags:
     {% for tag in page.tags %}
       <em>[<a href="../../../tag.html?tag={{ tag }}">{{ tag }}</a>]</em>
     {% endfor %}
-
 {% endif %}
