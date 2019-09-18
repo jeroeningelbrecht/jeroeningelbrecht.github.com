@@ -34,7 +34,7 @@ tags: [swedish, food&drinks]
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | meat | kött | |
-| fish | fisk
+| fish | fisk | |
 | pork | fläskköt | |
 | beef | nötkött | |
 | chicken | kyckling | |
