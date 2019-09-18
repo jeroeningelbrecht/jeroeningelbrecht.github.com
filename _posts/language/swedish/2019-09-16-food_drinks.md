@@ -8,6 +8,7 @@ tags: [swedish, food&drinks]
 # Food
 
 ## General
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | a meal | en måltid | måltiden |
