@@ -10,12 +10,12 @@ tags: [swedish, food&drinks]
 ## General
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
-| a meal | en måltid | |
-| lunch | lunch | |
-| dinner | middag | |
-| breakfast | frukost | |
-| restaurant | en restaurang | |
-| cook | en kock | |
+| a meal | en måltid | måltiden |
+| lunch | en lunch | lunchen |
+| dinner | en middag | middagen |
+| breakfast | en frukost | frukosten |
+| restaurant | en restaurang | restaurangen |
+| cook | en kock | kocken |
 
 
 ## Tableware
