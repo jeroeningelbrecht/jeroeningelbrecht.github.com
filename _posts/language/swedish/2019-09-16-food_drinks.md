@@ -2,7 +2,7 @@
 layout: post
 author: jeroen
 title: food
-tags: [swedish, food&drinks]
+tags: [swedish, food&amp;drinks]
 ---
 
 # Food
