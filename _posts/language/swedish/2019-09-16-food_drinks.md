@@ -20,6 +20,7 @@ tags: [swedish, food&drinks]
 
 
 ## Tableware
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | glass | ett glas | glaset |
@@ -31,16 +32,18 @@ tags: [swedish, food&drinks]
 
 
 ## Meat and Fish
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
-| meat | kött | |
-| fish | fisk | |
-| pork | fläskköt | |
+| meat | ett kött | köttet |
+| fish | en fisk | fisken |
+| pork | fläskköt or griskött| - |
 | beef | nötkött | |
 | chicken | kyckling | |
 
 
 ## Fruit and Vegetables
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | tomatoe | en tomat | |
@@ -49,6 +52,7 @@ tags: [swedish, food&drinks]
 | strawberry | jordgubbe | |
 
 ## Drinks
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | ale | en öl | |
@@ -59,12 +63,14 @@ tags: [swedish, food&drinks]
 | soup | soppa | |
 
 ## Desserts
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | icecream | glass | |
 
 
 ## Condiments
+
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
 | oil | olja | |
