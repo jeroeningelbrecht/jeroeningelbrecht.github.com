@@ -26,7 +26,7 @@ tags: [swedish, food&drinks]
 | cup | en kopp | koppen |
 | plate | en tallrik | tallriken |
 | spoon | en sked | skeden |
-| fork | en gaffel | |
+| fork | en gaffel | gaffeln |
 | knife | en kniv | kniven |
 
 
