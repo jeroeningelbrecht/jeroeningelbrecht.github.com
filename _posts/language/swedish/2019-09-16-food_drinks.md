@@ -18,6 +18,7 @@ tags: [swedish, food_n_drinks]
 | breakfast | en frukost | frukosten |
 | restaurant | en restaurang | restaurangen |
 | cook | en kock | kocken |
+| soup | en soppa | - |
 
 
 ## Tableware
