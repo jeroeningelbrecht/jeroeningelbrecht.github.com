@@ -11,6 +11,7 @@ tags: [swedish, food_n_drinks]
 
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
+| food | mat | - |
 | a meal | en måltid | måltiden |
 | lunch | en lunch | lunchen |
 | dinner | en middag | middagen |
@@ -46,10 +47,10 @@ tags: [swedish, food_n_drinks]
 
 | english | indefinite (a(n)) | definite (the) |
 | ------- | ----------------- | -------------- |
-| tomatoe | en tomat | |
-| lemon | en citron | |
-| orange | en apelsin | |
-| strawberry | jordgubbe | |
+| tomatoe | en tomat | tomaten |
+| lemon | en citron | citronen |
+| orange | en apelsin | apelsinen |
+| strawberry | jordgubbe | jordgubben |
 
 ## Drinks
 
