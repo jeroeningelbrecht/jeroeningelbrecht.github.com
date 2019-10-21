@@ -3,7 +3,7 @@ layout: default
 modified_at: test_modified_date
 ---
 
-<small>created at: {{ page.date | date: "%-d %B %Y" }} {%if  page.modified_at != "" %}- modified at: {{ page.modified_at }} {% endif %}</small>
+<small>created at: {{ page.date | date: "%-d %B %Y" }} {%if  page.modified_at %}- modified at: {{ page.modified_at }} {% endif %}</small>
 <h1>{{ page.title }}</h1>
 
 <p class="view">by {{ page.author | default: site.author }}</p>
