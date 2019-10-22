@@ -3,7 +3,7 @@ layout: default
 modified_at: test_modified_date
 ---
 
-<small>created at: {{ page.date | date: "%-d %B %Y" }} {%if  page.modified_at %}- modified at: {{ page.modified_at | date: "%-d %B %Y" }} {% endif %}</small>
+<small>created at: {{ page.date | date: "%-d %B %Y" }} {%if  page.modified_at %} (modified at: {{ page.modified_at | date: "%-d %B %Y" }}) {% endif %}</small>
 <br />
 <em>[<a href="http://www.jingelski.com">home</a>]</em>
 <h1>{{ page.title }}</h1>
