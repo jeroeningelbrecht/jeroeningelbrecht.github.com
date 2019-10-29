@@ -8,3 +8,5 @@ tags: [trips]
 * from airport to hotel:
 ** flygbussarna: bus from Bromma Airport to Fridhemsplan
 ** from Fridhemsplan to Hotel M/S Monika
+
+* 
