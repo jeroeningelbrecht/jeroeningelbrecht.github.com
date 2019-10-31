@@ -1,8 +1,6 @@
 ---
 layout: post
 author: jeroen
-title: H-U-M-O-R
+title: romantisch niemendalletje
 tags: [lindas, lyrics, unfinished]
 ---
-
-de 'H' die staat voor lachen maar snapte gij da wel
