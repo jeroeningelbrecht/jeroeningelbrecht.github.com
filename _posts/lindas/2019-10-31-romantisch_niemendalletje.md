@@ -3,6 +3,7 @@ layout: post
 author: jeroen
 title: romantisch niemendalletje
 tags: [lindas, lyrics]
+modified_at: 2019-10-31
 ---
 
 ik trek m'n hart aan voor vannacht  
@@ -41,7 +42,6 @@ zonder soms al die emoties erbij
 
 het is een les geweest  
 geen waar feest  
-
 en ik blijf nog steeds geloven in
 
 ro-ro-romantiek  
