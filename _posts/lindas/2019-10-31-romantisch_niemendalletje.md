@@ -3,15 +3,15 @@ layout: post
 author: jeroen
 title: romantisch niemendalletje
 tags: [lindas, lyrics]
-modified_at: 2019-10-31
+modified_at: 2019-11-04
 ---
 
 ik trek m'n hart aan voor vannacht  
-steek een kaars aan voor een gevoel waar jij niet op wacht
+steek een kaars aan voor iets waar jij niet op wacht
 
 
 ro-ro-romantiek  
-geen vriendschap of platoniek
+geen vriendschap en geen platoniek
 
 ro-ro-romantiek
 prille liefde in 't portiek
@@ -25,27 +25,27 @@ maar zo geraak ik niet aan gevoelsgerief
 
 
 ro-ro-romantiek  
-geen vriendschap of platoniek
+geen vriendschap oen geen platoniek
 
 ro-ro-romantiek
 prille liefde in 't portiek
 
 
 het is best ok  
-ik heb er vrede mee  
+ik heb er nu vrede mee  
 
-ook relatief  
-het hebben van een lief  
+het is best ook wel zeer relatief  
+een tandemdeel uitmaken van een lief  
 
-beter een babbel, open en vrij  
-zonder soms al die emoties erbij  
+beter wat gebabbel, open en vrij  
+zonder soms liedesemoties erbij  
 
 het is een les geweest  
 geen waar feest  
 en ik blijf nog steeds geloven in
 
 ro-ro-romantiek  
-geen vriendschap of platoniek
+geen vriendschap en geen platoniek
 
 ro-ro-romantiek
-prille liefde in 't portiek
+prille liefde in het portiek

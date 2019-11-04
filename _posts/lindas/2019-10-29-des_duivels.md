@@ -35,7 +35,7 @@ en vroeg zonder verpinken "7 euro Jerom"
 
 hij zag eens naar m'n bakkes dat op vragen stond  
 "voor da pintje 2 en 5 voor die Duvel"
-  
+
 --stilte--
 
 (gefluister) 5 euro voor nen Duvel pé da kunt ge toch ni menen
