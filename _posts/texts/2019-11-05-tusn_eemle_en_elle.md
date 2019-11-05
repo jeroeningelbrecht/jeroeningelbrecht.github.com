@@ -1,4 +1,11 @@
-# 't Hof Van Commerce - Tusn Eemle En Elle
+---
+layout: post
+author: jeroen
+title: Tusn Eemle En Elle
+tags: [lyrics]
+modified_at:
+---
+
 geloofde gie in god? - _geloof jij in God_  
 geloofde gij inn duvvel? - _geloof jij in de duivel_  
 geloofde gie in zot? - _geloof jij in zot_  
