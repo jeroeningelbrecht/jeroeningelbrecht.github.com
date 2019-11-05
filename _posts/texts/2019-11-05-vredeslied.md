@@ -30,17 +30,17 @@ Moa spit dat e kik niet - _maar spijt dat heb ik niet_
 Idrjin kommoa speel idrjin kom moa speeln - _iedereen kom maar spelen, iedereen kom maar spelen_  
 'K goa u moatje zin ge goat u nie verveel - _ik ga je vriendje zijn je gaat je niet vervelen_  
 Ochjirre toch da kindje 't kikt een bitje skeel - _ocharme toch dat kindje het kijkt een beetje scheel_  
-Zelfs gehandicapte homosexueeln - __  
-Ge meug nie van u moeder kan 't mie wel inbeeln - __  
+Zelfs gehandicapte homosexueeln - _zelfs gehandicapte homoseksuele mensen_  
+Ge meug nie van u moeder kan 't mie wel inbeeln - _je mag niet van je moeder ik kan het mij wel inbeelden_  
 
-Min witte muzze - __  
-Is gistem ontsnapt - __  
-'Ko eur kuoke nie gesloten - __  
-En dat os ze wel gevat - __  
+Min witte muzze - _mijn witte muis_  
+Is gistem ontsnapt - _is gisteren ontsnapt_  
+'Ko eur kuoke open geloaten - _ik had haar kooitje open gelaten_  
+En dat os ze wel gevat - _en dat had ze wel door_  
 
-Mo eur kwoike - __  
-Stat in d' uogte - __  
-Dus z'is nie verre gegrocht - __  
-Ut eur uorkes - __  
-En eur uogske - __  
-Kwam ter een ruod vocht - __  
+Mo eur kwoike - _maar haar kooitje_  
+Stat in d' uogte - _staat in de hoogte_  
+Dus z'is nie verre gegrocht - _dus ze is niet ver geraakt_  
+Ut eur uorkes - _en uit haar oortjes_  
+En eur uogske - _en haar oogjes_  
+Kwam ter een ruod vocht - _kwam er een rood vocht_  
